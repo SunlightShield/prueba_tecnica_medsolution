@@ -1,13 +1,13 @@
 # Ignorar node_modules en frontend y backend
-frontend/node_modules/
+front/node_modules/
 backend/node_modules/
 
 # Ignorar builds o distribuciones
-frontend/build/
+front/build/
 backend/dist/
 
 # Ignorar archivos de entorno
-frontend/.env*
+front/.env*
 backend/.env*
 
 # Ignorar logs
